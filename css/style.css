@@ -66,3 +66,57 @@
     order: 0;
     flex-grow: 0;
 }
+
+.back-button{
+    display: inline-block;
+    position: absolute;
+    left: 70px;
+    top: 53px;
+
+}
+
+.emploi-info {
+    position: absolute;
+    width: 223px;
+    height: 24px;
+    left: 671px;
+    top: 91px;
+
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    
+
+    color: #232323;
+}
+
+.laptop-info {
+    position: absolute;
+    width: 289px;
+    height: 24px;
+    right: 671px;
+    top: 91px;
+
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #232323;
+}
+
+.emploi-line {
+    display: inline-block;
+    position: absolute;
+    width: 185px;
+    height: 0px;
+    left: 680px;
+    margin-top: 115px;
+
+    
+
+}
