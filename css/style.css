@@ -115,8 +115,43 @@
     width: 185px;
     height: 0px;
     left: 680px;
-    margin-top: 115px;
+    margin-top: -40px;
+    z-index: 1;
 
     
 
+}
+
+.input-div {
+    position: relative;
+    height: 973px;
+    width: 1226px;
+    margin-top: 157px;
+    margin-left: 347px;
+    margin-right: 347px;
+    margin-bottom: 197px;
+    background: #FFFFFF;
+    border-radius: 18px;
+}
+
+.nameinput {
+    position: absolute;
+    width: 407px;
+    height: 60px;
+    border: 1.8px solid #8AC0E2;
+    border-radius: 8px;
+    margin: 125px 645px 788px 174px;
+
+}
+
+.namelable {
+    width: 407px;
+    height: 21px;
+
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    
 }
